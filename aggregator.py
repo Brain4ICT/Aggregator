@@ -3,7 +3,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 import os
-from statsmodels.tsa.arima_model import ARIMA
 
 st.title("Analyse des Courbes de Charge - Aggregators")
 
